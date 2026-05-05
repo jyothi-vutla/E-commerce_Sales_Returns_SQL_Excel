@@ -15,7 +15,7 @@ This project demonstrates my ability to handle the entire data pipeline: Databas
 * **Actionable Insights:** The dashboard helps in identifying which product categories have the highest return rates.
 
 ## 📸 Dashboard Preview
-E-commerce_Sales_&_Returns_Analysis_SQL_Excel.PNG
+E-commerce_sales_returns_SQL_Excel.PNG
 
 ## 📁 How to Explore This Project
 1. **Excel File:** Open the `.xlsx` file to interact with the slicers and see the Pivot logic.
